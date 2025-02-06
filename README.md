@@ -1,4 +1,4 @@
-# multiarch-python-and-node
+# Multiarch images for python and node runtimes
 
 ---
 
